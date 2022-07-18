@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.logo span{
+    color: #CC041E;
+}
+
+.pages p{
+    margin: 0px 20px 0px 20px;
+    color: white;
+    font-size: 18px;
+}
+
+.hamburger{
+    width: 40px;
+}
